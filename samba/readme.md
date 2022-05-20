@@ -104,8 +104,8 @@ Retourner dans notre pc linux et créer un fichier dans le dossier de partage
 Entrer dans le pc windows et aller à **ThisPC > sharefile(\\192.168.56.101) (Z:)**
 
 ![](images/sharefile.png)
-
-On retrouve le fichier partagé depuis linux
+<br>
+On retrouve le fichier partagé depuis linux <br>
 ![](images/sharefile2.png)
 
 ### <a href='https://github.com/fenohei/SYS1/blob/main/README.md'> RETOUR</a>
